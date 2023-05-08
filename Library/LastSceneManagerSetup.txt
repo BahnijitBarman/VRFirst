@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/VRScene.unity
+- path: D:/Unnity projects/VRLab1/VRLab1/Assets/Scenes/Main VR Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
